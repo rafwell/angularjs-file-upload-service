@@ -1,0 +1,17 @@
+{
+  "name": "angularjs-file-upload-service",
+  "homepage": "https://github.com/rafwell/angularjs-file-upload-service",
+  "authors": [
+    "Rafael Souza <rafaotec@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
